@@ -1,3 +1,20 @@
+# Pokedex
+
+## página principal
+
+[![poke1.png](https://i.postimg.cc/nzfcCPMy/poke1.png)](https://postimg.cc/06Zq4ZYn)
+
+## Información de pokemón
+
+[![poke2.png](https://i.postimg.cc/Zn0gZT44/poke2.png)](https://postimg.cc/64Jzfx8m)
+
+## Buscador de pokemones
+
+[![poke3.png](https://i.postimg.cc/mrw6HcrT/poke3.png)](https://postimg.cc/KK1NX8LW)
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
